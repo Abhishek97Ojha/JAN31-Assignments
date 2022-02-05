@@ -1,0 +1,7 @@
+body{
+    background-image: linear-gradient(to right, pink, wheat);
+}
+#array input{
+    display: flex;
+    margin: 15px;
+}
